@@ -1,0 +1,17 @@
+.gallery{
+    display: inline-block;
+    border: 1px solid rgb(99, 38, 38);
+    margin: 5px;
+
+}
+
+.gallery .description{
+    background-color: rgb(37, 35, 35);
+    color: aliceblue;
+    text-align: center;
+    text-decoration: none;
+}
+
+
+
+

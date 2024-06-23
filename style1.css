@@ -1,0 +1,7 @@
+li:hover{
+    background-color: rgb(137, 254, 254);
+}
+
+li:not(:hover){
+    background-color: orange;
+}
